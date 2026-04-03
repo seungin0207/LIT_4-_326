@@ -6,5 +6,5 @@ https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction
 전처리한 CSV 파일
 [final_approval_data.csv](https://github.com/user-attachments/files/26441555/final_approval_data.csv)
 
-# MS_Learn
+# MS_Learn 링크
 https://learn.microsoft.com/ko-kr/training/modules/find-best-classification-model-automated-machine-learning/
